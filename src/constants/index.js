@@ -5,7 +5,6 @@ import {
   docker,
   python,
   java,
-  feijaoada,
   biginformatique,
 } from "../assets/images";
 import {
