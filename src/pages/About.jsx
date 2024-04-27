@@ -26,7 +26,7 @@ const About = () => {
           Actuellement étudiant en Master 1 à
           <span className="font-bold"> Epitech </span> , passionné par le génie
           logiciel je suis à la recherche d'une opportunité de{" "}
-          <span className="font-bold"> stage/alternance </span>
+          <span className="font-bold"> alternance </span>
           pour approfondir mes connaissances et acquérir une expérience
           pratique.
         </p>

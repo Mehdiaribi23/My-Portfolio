@@ -28,8 +28,10 @@ import soundon from "./soundon.png";
 import soundoff from "./soundoff.png";
 import sonelgaz from "./133014.svg";
 import upwork from "./upwork.svg";
+import cleed from "./cleed.png";
 
 export {
+  cleed,
   upwork,
   sonelgaz,
   css,

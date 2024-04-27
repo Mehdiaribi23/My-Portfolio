@@ -8,6 +8,7 @@ import {
   biginformatique,
 } from "../assets/images";
 import {
+  cleed,
   upwork,
   sonelgaz,
   contact,
@@ -100,6 +101,22 @@ export const skills = [
 ];
 
 export const experiences = [
+
+  {
+    title: "Développeur fullstack",
+    company_name: "Cleed",
+    icon: cleed,
+    iconBg: "#1444cc",    
+    date: "Janv 2024 - en cours",
+    points: [
+      "Développement du Backend utilisant Node.js (Express.js) pour la gestion des API et la logique métier.",
+      "Création du Frontend avec Vue.js, HTML et CSS pour une interface utilisateur intuitive et réactive.",
+      "Utilisation du langage Python pour le développement du traitement du langage naturel (NLP).",
+      "Participation au cérémonie agile scrum.",
+    ],
+  },
+
+
   {
     title: "Data Science",
     company_name: "Sonelgaz",
